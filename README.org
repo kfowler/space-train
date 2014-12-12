@@ -12,5 +12,5 @@
 #+KEYWORDS:
 #+LANGUAGE: en
 #+SELECT_TAGS: export
-* space-train
-Swifty go where…
+
+SpaceTrain is an arcade game.
